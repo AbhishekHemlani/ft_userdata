@@ -7,6 +7,7 @@
   "dry_run": false,
   "dry_run_wallet": 100000,
   "max_open_trades": 50,
+  "logfile": "user_data/logs/backtest_strategy.log",
 
   "exchange": {
     "name": "binanceus",
